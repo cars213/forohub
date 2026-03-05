@@ -1,7 +1,7 @@
 # forohub
 Foro educativo desarrollado en java como desafio del curso Java y Spring Framework de alura, donde se puede registrar y resolver tus dudas o resolver las dudas de otros usuarios
 
-<img width="522" height="383" alt="image" src="https://github.com/user-attachments/assets/a8317d72-36b5-43f9-8f56-1c6bc58214d5" />
+<img width="507" height="345" alt="image" src="https://github.com/user-attachments/assets/334fc8fa-eaf6-42be-9c92-fb83921d1277" />
 
 ## Descripción del Proyecto
 Proyecto finalizado, es un foro educativo el cual permite crear, modificar, listar y eliminar usuario, a su vez cada usuario puede crear, listar, actualizar y eliminar topicos de cualquier duda que tengan, posteriomente los administradores y profesores podran crear, listar, actualizar y eliminar cursos por ultimo se podran crear altualizar y eliminar respuestas a diferentes topicos, dependiendo de la respuesta, el dueño del topico puede seleccionar que respuesta considera una solucion y marcarla en base a la id, todo esto almacenado en base de datos mySQL
